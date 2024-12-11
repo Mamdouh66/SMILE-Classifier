@@ -181,5 +181,6 @@ pip-selfcheck.json
 *.npy
 
 data/celeba
+notebooks/lightning_logs
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,venv,dotenv,redis,database
